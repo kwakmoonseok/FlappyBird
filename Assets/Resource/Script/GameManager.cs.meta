@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f7e51b4309ec6194c86416f8b85011b0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cactus: {instanceID: 0}
+  - deathSound: {fileID: 8300000, guid: 7b2d31b4ddbcdb0468ef68d08505191e, type: 3}
+  - goalSound: {fileID: 8300000, guid: af9bee2e8ed70644886f2d39c1c89426, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
